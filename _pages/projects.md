@@ -16,6 +16,6 @@ permalink: /projects/
    <a href="../files/Controllers.pdf" target="_blank"> <br>
   Files <br>
 * Transmission Line Designs
-   <a href="../files/" target="_blank"> <br>
+   <a href="../files/Transmission%20Line%20Design" target="_blank"> <br>
   Files <br>
  
