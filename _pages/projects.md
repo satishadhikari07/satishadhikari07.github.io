@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ## Academic Projects<br>
-<span style="font-size: 12px;"><em>(Note: All reports are shortened, for detail reports, simulation files and codes, reach out to me !!)</em></span>
+<span style="font-size: 14px;"><em>(Note: All reports are shortened, for detail reports, simulation files and codes, you can reach out to me !!)</em></span>
 <br>
 ### Thesis Project <br>
 * Microcontroller Driven MPPT System to Enhance Photovoltaic Efficiency: An Experimental Approach in Dhulikhel, Nepal.
