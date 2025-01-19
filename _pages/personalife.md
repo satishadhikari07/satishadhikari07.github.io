@@ -1,6 +1,6 @@
 ---
 title: "Personal Life"
-collection:
+collection: personal life
 permalink: /personal life/
 ---
 
