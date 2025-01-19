@@ -1,9 +1,10 @@
 ---
-title: "Projects"
+title: "Research and Academic Projects"
 collection: projects
 permalink: /projects/
-excerpt: 'Projects Background'
+excerpt: 'Research and Academic Projects'
 ---
+
 ### Research Projects<br>
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
