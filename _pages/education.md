@@ -1,6 +1,5 @@
 ---
 title: "Education Background"
-collection: education
 permalink: /education/
 excerpt: 'Education Background'
 ---
