@@ -60,18 +60,4 @@ Add the following styles to define dark and light mode:
 css
 Copy
 Edit
-:root {
-  --bg-color: #ffffff;
-  --text-color: #000000;
-}
 
-[data-theme="dark"] {
-  --bg-color: #1e1e1e;
-  --text-color: #ffffff;
-}
-
-body {
-  background-color: var(--bg-color);
-  color: var(--text-color);
-  transition: background-color 0.3s ease, color 0.3s ease;
-}
