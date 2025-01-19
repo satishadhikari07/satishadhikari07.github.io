@@ -1,4 +1,35 @@
----
+/* Default light theme styles */
+:root {
+  --background-color: #ffffff;
+  --text-color: #333333;
+  --link-color: #1a73e8;
+}
+
+/* Dark mode styles */
+[data-theme="dark"] {
+  --background-color: #1e1e1e;
+  --text-color: #ffffff;
+  --link-color: #4a90e2;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+a {
+  color: var(--link-color);
+}
+
+/* Dark theme button styling */
+#theme-toggle {
+  cursor: pointer;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  color: var(--text-color);
+}---
 ---
 
 /*
