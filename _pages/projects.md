@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ## Academic Projects<br>
-<span style="font-size: 5px;"><em>(Note: All reports are shortened, for detail reports, simulation files and codes, reach out to me !!)</em></span>
+<span style="font-size: 12px;"><em>(Note: All reports are shortened, for detail reports, simulation files and codes, reach out to me !!)</em></span>
 <br>
 ### Thesis Project <br>
 * Microcontroller Driven MPPT System to Enhance Photovoltaic Efficiency: An Experimental Approach in Dhulikhel, Nepal.
@@ -24,18 +24,18 @@ permalink: /projects/
   Files <br>
   
 ## Industry Experiences Projects<br>
-* Distribution Systems Design
-    Learned : Load Flow Analysis, Equipments ( Transformers, Cables, Capacitor Banks Sizing
+* Distribution Systems Design <br>
+    Learned : Load Flow Analysis, Equipments ( Transformers, Cables, Capacitor Banks Sizing )
   <a href="../files/Mppt.pdf" target="_blank"> <br>
   View Single Line Diagram  <br>
   
-* Transmission Line Designs
-    Learned : Overhead and Undergournd Transmission Line upto 400kV
+* Transmission Line Designs <br>
+    Learned : Overhead and Undergournd Transmission Line Design upto 400kV
   <a href="../files/Mppt.pdf" target="_blank"> <br>
   View Sample Report <br>
 
-* Substation Design Study
-    Learned : Power flows, protection coordination study
+* Substation Design Study <br>
+    Learned : Power flows, Protection Coordination Study
   <a href="../files/Mppt.pdf" target="_blank"> <br>
   View Single Line Diagram <br>
 
