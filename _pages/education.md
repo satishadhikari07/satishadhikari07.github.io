@@ -1,4 +1,6 @@
-
+---
+permalink: /education/
+---
 Currently, I am actively seeking for Ph.D. opportunities.<br>
 ### Bachelor in Electrical Engineering (2018 - 2023)<br>
 <div class="header" style="display: flex; align-items: center;">
