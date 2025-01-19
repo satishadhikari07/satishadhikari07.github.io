@@ -25,13 +25,13 @@ permalink: /projects/
   <a href="../files/Mppt.pdf" target="_blank"> <br>
   View Single Line Diagram  <br>
   
-*Transmission Line Designs
-   Learned : Overhead and Undergournd Transmission Line upto 400kV
+* Transmission Line Designs
+    Learned : Overhead and Undergournd Transmission Line upto 400kV
   <a href="../files/Mppt.pdf" target="_blank"> <br>
   View Sample Report <br>
 
-*Substation Design Study
-   Learned : Power flows, protection coordination study
+* Substation Design Study
+    Learned : Power flows, protection coordination study
   <a href="../files/Mppt.pdf" target="_blank"> <br>
   View Single Line Diagram <br>
 
