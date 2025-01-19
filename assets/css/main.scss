@@ -39,3 +39,39 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+To add a dark and light mode toggle button in the Minimal Mistakes Jekyll theme, you can follow these steps:
+
+1. Edit the Configuration File
+First, enable a dark mode feature in the _config.yml file by adding a custom toggle script. If it's not natively supported, you’ll manually implement it.
+
+2. Add the Toggle Button
+Open your layout file for the theme, such as default.html or header.html (depending on where you want the toggle).
+Insert the following code snippet in the <header> or wherever the toggle button should appear:
+html
+Copy
+Edit
+<button id="theme-toggle" aria-label="Toggle Dark/Light Mode">
+  🌙
+</button>
+3. Add CSS for Dark/Light Mode
+Create a new CSS file or add to an existing one (like assets/css/main.css).
+Add the following styles to define dark and light mode:
+css
+Copy
+Edit
+:root {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+}
+
+[data-theme="dark"] {
+  --bg-color: #1e1e1e;
+  --text-color: #ffffff;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
