@@ -1,7 +1,7 @@
 ---
 title: "Personal Life"
 collection: personal life
-permalink: /personal life/
+permalink: /life/
 ---
 
 This site is currently under preliminary design process.<br>
