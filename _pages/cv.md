@@ -1,12 +1,13 @@
 ---
 layout: archive
-permalink: /cv/
+permalink: /personalife/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-Please, find my recently updated <a href="../files/CV.pdf" target="_blank">CV
+This site is currently under premilinary design phase. <br>
+Please, check others tabs.
 
 
 
