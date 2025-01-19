@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am Satish Adhikari, an Electrical and Electronics Engineer from Kathmandu, Nepal.
-Create content & metadata
------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Hi, I’m Satish Adhikari, an Electrical and Electronics Engineering graduate with a bachelor’s degree from Kathmandu University, Nepal. I am currently working at NEA Engineering Company, where I specialize in power transmission systems, substation design, and distribution networks.
+--
+I have been actively contributing to projects that focus on the planning, design, and implementation of power infrastructure. My responsibilities include designing high-voltage substations, optimizing distribution systems, and ensuring the reliability and efficiency of power transmission networks.I have a keen interest in exploring cutting-edge technologies like renewable energy integration, grid automation, and sustainable power solutions. I enjoy working on projects that challenge me to innovate and push the boundaries 
+ --
+Beyond work, I am passionate about staying updated with industry advancements and continuously enhancing my technical skills. To learn more about my projects and accomplishments, please explore my Projects tab or review my CV.
+[CV page](https://academicpages.github.io/cv)
+ 
