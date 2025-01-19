@@ -4,11 +4,15 @@ collection: projects
 permalink: /projects/
 ---
 
-### Academic Projects<br>
-
+## Academic Projects<br>
+<span style="font-size: 5px;"><em>(Note: All reports are shortened, for detail reports, simulation files and codes, reach out to me !!)</em></span>
+<br>
+### Thesis Project <br>
 * Microcontroller Driven MPPT System to Enhance Photovoltaic Efficiency: An Experimental Approach in Dhulikhel, Nepal.
   <a href="../files/Mppt.pdf" target="_blank"> <br>
   Files <br>
+    
+### Mini Projects <br>
 * Thyristor Firing Circuits
   <a href="../files/Thyristors.pdf" target="_blank"> <br>
   Files <br>
@@ -19,7 +23,7 @@ permalink: /projects/
    <a href="https://github.com/satishadhikari07/Transmission-Line-Design" target="_blank"> <br>
   Files <br>
   
-### Industry Experiences Projects<br>
+## Industry Experiences Projects<br>
 * Distribution Systems Design
     Learned : Load Flow Analysis, Equipments ( Transformers, Cables, Capacitor Banks Sizing
   <a href="../files/Mppt.pdf" target="_blank"> <br>
