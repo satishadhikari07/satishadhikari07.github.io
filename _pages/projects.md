@@ -1,5 +1,5 @@
 ---
-title: "Research and Academic Projects"
+title: "Projects"
 collection: projects
 permalink: /projects/
 ---
@@ -16,6 +16,6 @@ permalink: /projects/
    <a href="../files/Controllers.pdf" target="_blank"> <br>
   Files <br>
 * Transmission Line Designs
-   <a href="../files/Transmission%20Line%20Design" target="_blank"> <br>
+   <a href="https://github.com/satishadhikari07/Transmission-Line-Design" target="_blank"> <br>
   Files <br>
  
