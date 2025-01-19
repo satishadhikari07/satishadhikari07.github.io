@@ -14,7 +14,7 @@ permalink: /projects/
     
 ### Mini Projects <br>
 * Thyristor Firing Circuits
-  <a href="../files/Thyristors.pdf" target="_blank"> <br>
+  <a href="../files/Thyristor Firing Circuits.pdf" target="_blank"> <br>
   Files <br>
 * Control Circuit Analysis ( Bode, Nyquist plot and PID Controllers)
    <a href="../files/Controllers.pdf" target="_blank"> <br>
