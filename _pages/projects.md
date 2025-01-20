@@ -37,7 +37,7 @@ permalink: /projects/
   View Single Line Diagram  <br>
   
 * Transmission Line Designs <br>
-    Learned : Overhead and Undergournd Transmission Line Design upto 400kV
+    Learned : Overhead and Underground Transmission Line Design upto 400kV
   <a href="../files/Desk Study Report Teku - Ratnapark.pdf" target="_blank"> <br>
   View Sample Report <br>
 
