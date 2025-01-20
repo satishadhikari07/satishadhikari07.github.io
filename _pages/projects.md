@@ -33,12 +33,12 @@ permalink: /projects/
 <hr style="border: 0; height: 5px; background-color: green;">
 * Distribution Systems Design <br>
     Learned : Load Flow Analysis, Equipments ( Transformers, Cables, Capacitor Banks Sizing )
-  <a href="../files/Mppt.pdf" target="_blank"> <br>
+  <a href="../files/Report.pdf" target="_blank"> <br>
   View Single Line Diagram  <br>
   
 * Transmission Line Designs <br>
     Learned : Overhead and Undergournd Transmission Line Design upto 400kV
-  <a href="../files/Mppt.pdf" target="_blank"> <br>
+  <a href="../files/Desk Study Report Teku - Ratnapark.pdf" target="_blank"> <br>
   View Sample Report <br>
 
 * Substation Design Study <br>
