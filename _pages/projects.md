@@ -4,7 +4,8 @@ collection: projects
 permalink: /projects/
 ---
 
-## Academic Projects <br>
+
+<span style="font-size: 16px; font-weight: bold;"> Academic Projects </span>
 <hr style="border: 0; height: 5px; background-color: green;">
 <span style="font-size: 14px;"><em>(Note: All reports are shortened, for detail reports, simulation files and codes, you can reach out to me !!)</em></span>
 <br>
@@ -28,7 +29,8 @@ permalink: /projects/
   </a> <br>
   Etap   :<a href="https://github.com/satishadhikari07/Transmission-Line-Design" target="_blank"> Files<br>
   
-## Industry Experiences Projects<br>
+
+<span style="font-size: 16px; font-weight: bold;"> Industry Experiences Projects </span>
 <hr style="border: 0; height: 5px; background-color: green;">
 * Distribution Systems Design <br>
     Learned : Load Flow Analysis, Equipments ( Transformers, Cables, Capacitor Banks Sizing )
