@@ -11,6 +11,7 @@ Currently, I am actively seeking for Ph.D. opportunities.<br>
 </div>
 <hr>
 * GPA 3.64/4.0
+* Percentage Equivalent : 87.05%
 * Major Courses : Power System, Power Electronics,Electric Machines, Control System and Engineering, Renewable Energy, Smart Grid, Engineering Projects and C/C++ 
 
 ### High Level School ( 10 +2), Science (2015 - 2017)<br>
