@@ -13,7 +13,17 @@ Currently, I am actively seeking for Ph.D. opportunities.<br>
 <br>
 ### High Level School ( 10 +2), Science (2015 - 2017)<br>
 <div class="header" style="display: flex; align-items: center;">
-  <img src="../images/KUlogo.png" alt="logo" style="width:50px; margin-right: 10px;">
+  <img src="../images/Prasadilogo.png" alt="logo" style="width:50px; margin-right: 10px;">
   <span style="font-size: 18px;">Prasadi Academy, Nepal</span>
 </div>
 <hr>
+* Percentage 79.5 %
+<br>
+### School Leaving Certificate (SLC) <br>
+<div class="header" style="display: flex; align-items: center;">
+  <img src="../images/Padmodayalogo.png" alt="logo" style="width:50px; margin-right: 10px;">
+  <span style="font-size: 18px;">Padmodaya Public Model Secondary School, Nepal</span>
+</div>
+<hr>
+* Percentage 80.5 %
+<br>
