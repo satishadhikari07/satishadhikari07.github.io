@@ -43,7 +43,7 @@ permalink: /projects/
 
 * Substation Design Study <br>
     Learned : Power flows, Protection Coordination Study
-  <a href="../files/Mppt.pdf" target="_blank"> <br>
+  <a href="../files/33 kV SLD.pdf" target="_blank"> <br>
   View Single Line Diagram <br>
 
   
