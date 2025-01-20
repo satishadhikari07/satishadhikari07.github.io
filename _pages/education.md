@@ -4,7 +4,7 @@ permalink: /education/
 Currently, I am actively seeking for Ph.D. opportunities.<br>
 <hr style="border: 0; height: 5px; background-color: green;">
 
-### Bachelor in Electrical Engineering (2018 - 2023)
+### Bachelor in Electrical and Electronics Engineering (2018 - 2023)
 <div class="header" style="display: flex; align-items: center;">
   <img src="../images/KUlogo.png" alt="logo" style="width:50px; margin-right: 10px;">
   <span style="font-size: 18px;">Kathmandu University, Nepal</span>
