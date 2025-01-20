@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 
-<span style="font-size: 16px; font-weight: bold;"> Academic Projects </span>
+<span style="font-size: 25px; font-weight: bold;"> Academic Projects </span>
 <hr style="border: 0; height: 5px; background-color: green;">
 <span style="font-size: 14px;"><em>(Note: All reports are shortened, for detail reports, simulation files and codes, you can reach out to me !!)</em></span>
 <br>
@@ -19,18 +19,18 @@ permalink: /projects/
   <a href="../files/Thyristor Firing Circuits.pdf" target="_blank"> <br>
   Files <br>
 * Control Circuit Analysis ( Bode, Nyquist plot and PID Controllers)
-   <a href="../files/Controllers.pdf" target="_blank"> <br>
+   <a href="../files/Analysis on Bode Bot, Nyquist Plot and PID Controller" target="_blank"> <br>
   Files <br>
 * Distance Protection
-   <a href="https://github.com/satishadhikari07/Transmission-Line-Design" target="_blank"> <br>
+   <a href="../files/Distance Protection.pdf" target="_blank"> <br>
   Files <br>
 * Load Flow Analysis <br>
-  Matlab :<a href="https://github.com/satishadhikari07/Transmission-Line-Design" target="_blank"> Files
+  Matlab :<a href="../files/Load Flow - Matlab Simulink.pdf" target="_blank"> 
   </a> <br>
-  Etap   :<a href="https://github.com/satishadhikari07/Transmission-Line-Design" target="_blank"> Files<br>
+  Etap   :<a href="../files/LF-Etap.pdf" target="_blank"> Files<br>
   
 
-<span style="font-size: 16px; font-weight: bold;"> Industry Experiences Projects </span>
+<span style="font-size: 25px; font-weight: bold;"> Industry Experiences Projects </span>
 <hr style="border: 0; height: 5px; background-color: green;">
 * Distribution Systems Design <br>
     Learned : Load Flow Analysis, Equipments ( Transformers, Cables, Capacitor Banks Sizing )
