@@ -19,7 +19,7 @@ permalink: /projects/
   <a href="../files/Thyristor Firing Circuits.pdf" target="_blank"> <br>
   Files <br>
 * Control Circuit Analysis ( Bode, Nyquist plot and PID Controllers)
-   <a href="../files/Analysis on Bode Bot, Nyquist Plot and PID Controller" target="_blank"> <br>
+   <a href="../files/Analysis on Bode Bot, Nyquist Plot and PID Controller.pdf" target="_blank"> <br>
   Files <br>
 * Distance Protection
    <a href="../files/Distance Protection.pdf" target="_blank"> <br>
