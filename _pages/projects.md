@@ -26,7 +26,7 @@ permalink: /projects/
   Distance Protection :<a href="../files/Distance Protection.pdf" target="_blank"> Files </a><br>
   Differential Relays Calculations:<a href="../files/Differential Relays Settings Calculations.pdf" target="_blank"> Files</a><br>
   
-* Transmission Line Designs (Power Evaculation of 200 MW, 160 Km) <br>
+* Transmission Line Design (Power Evaculation of 200 MW, 160 Km) <br>
   <a href="https://github.com/satishadhikari07/Transmission-Line-Design" target="_blank"> Files </a><br>
     
 * Load Flow Analysis <br>
@@ -34,14 +34,14 @@ permalink: /projects/
   Etap   :<a href="../files/LF-Etap.pdf" target="_blank"> Files<br>
   
 
-<span style="font-size: 25px; font-weight: bold;"> Industry Experiences Projects </span>
+<span style="font-size: 25px; font-weight: bold;"> Industry Projects (NEA Engineering Company) </span>
 <hr style="border: 0; height: 5px; background-color: green;">
 * Distribution Systems Design <br>
     Learned : Load Flow Analysis, Equipments (Transformers, Cables, Capacitor Banks Sizing)
   <a href="../files/Report.pdf" target="_blank"> <br>
   View Single Line Diagram  <br>
   
-* Transmission Line Designs <br>
+* Transmission Line Design <br>
     Learned : Overhead and Underground Transmission Line Design upto 400kV
   <a href="../files/Desk Study Report Teku - Ratnapark.pdf" target="_blank"> <br>
   View Sample Report <br>
