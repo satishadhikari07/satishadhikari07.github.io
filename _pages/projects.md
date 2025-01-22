@@ -21,9 +21,14 @@ permalink: /projects/
 * Control Circuit Analysis ( Bode, Nyquist plot and PID Controllers)
    <a href="../files/Analysis on Bode Bot, Nyquist Plot and PID Controller.pdf" target="_blank"> <br>
   Files <br>
-* Distance Protection
-   <a href="../files/Distance Protection.pdf" target="_blank"> <br>
-  Files <br>
+  
+* Relay Setting Calculations
+  Distance Protection :<a href="../files/Distance Protection.pdf" target="_blank"> Files <br>
+  Differential Relays Calculations:<a href="../files/Differential Relays Settings Calculations.pdf" target="_blank"> Files<br>
+  
+  * Transmission Line Designs
+  Distance Protection :<a href="https://github.com/satishadhikari07/Transmission-Line-Design" target="_blank"> Files <br>
+    
 * Load Flow Analysis <br>
   Matlab :<a href="../files/Load Flow - Matlab Simulink.pdf" target="_blank"> Files </a> <br>
   Etap   :<a href="../files/LF-Etap.pdf" target="_blank"> Files<br>
@@ -32,7 +37,7 @@ permalink: /projects/
 <span style="font-size: 25px; font-weight: bold;"> Industry Experiences Projects </span>
 <hr style="border: 0; height: 5px; background-color: green;">
 * Distribution Systems Design <br>
-    Learned : Load Flow Analysis, Equipments ( Transformers, Cables, Capacitor Banks Sizing )
+    Learned : Load Flow Analysis, Equipments (Transformers, Cables, Capacitor Banks Sizing)
   <a href="../files/Report.pdf" target="_blank"> <br>
   View Single Line Diagram  <br>
   
