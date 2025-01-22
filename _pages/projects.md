@@ -22,12 +22,12 @@ permalink: /projects/
    <a href="../files/Analysis on Bode Bot, Nyquist Plot and PID Controller.pdf" target="_blank"> <br>
   Files <br>
   
-* Relay Setting Calculations
-  Distance Protection :<a href="../files/Distance Protection.pdf" target="_blank"> Files <br>
-  Differential Relays Calculations:<a href="../files/Differential Relays Settings Calculations.pdf" target="_blank"> Files<br>
+* Relay Setting Calculations <br>
+  Distance Protection :<a href="../files/Distance Protection.pdf" target="_blank"> Files </a><br>
+  Differential Relays Calculations:<a href="../files/Differential Relays Settings Calculations.pdf" target="_blank"> Files</a><br>
   
-  * Transmission Line Designs
-  Distance Protection :<a href="https://github.com/satishadhikari07/Transmission-Line-Design" target="_blank"> Files <br>
+* Transmission Line Designs (Power Evaculation of 200 MW, 160 Km) <br>
+  Distance Protection :<a href="https://github.com/satishadhikari07/Transmission-Line-Design" target="_blank"> Files </a><br>
     
 * Load Flow Analysis <br>
   Matlab :<a href="../files/Load Flow - Matlab Simulink.pdf" target="_blank"> Files </a> <br>
