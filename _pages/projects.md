@@ -14,7 +14,7 @@ permalink: /projects/
   <a href="../files/Mppt.pdf" target="_blank"> <br>
   Files <br>
     
-### Mini Projects <br>
+### Course Projects <br>
 * Thyristor Firing Circuits
   <a href="../files/Thyristor Firing Circuits.pdf" target="_blank"> <br>
   Files <br>
