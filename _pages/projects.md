@@ -27,7 +27,7 @@ permalink: /projects/
   Differential Relays Calculations:<a href="../files/Differential Relays Settings Calculations.pdf" target="_blank"> Files</a><br>
   
 * Transmission Line Designs (Power Evaculation of 200 MW, 160 Km) <br>
-  Distance Protection :<a href="https://github.com/satishadhikari07/Transmission-Line-Design" target="_blank"> Files </a><br>
+  <a href="https://github.com/satishadhikari07/Transmission-Line-Design" target="_blank"> Files </a><br>
     
 * Load Flow Analysis <br>
   Matlab :<a href="../files/Load Flow - Matlab Simulink.pdf" target="_blank"> Files </a> <br>
