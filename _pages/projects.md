@@ -37,7 +37,7 @@ permalink: /projects/
 <span style="font-size: 25px; font-weight: bold;"> Industry Projects (NEA Engineering Company) </span>
 <hr style="border: 0; height: 5px; background-color: green;">
 * Distribution Systems Design <br>
-    Learned : Load Flow Analysis, Equipments (Transformers, Cables, Capacitor Banks Sizing)
+    Learned : Load Flow Analysis, Volt-Var Control, Equipments (Transformers, Cables, Capacitor Banks Sizing)
   <a href="../files/Report.pdf" target="_blank"> <br>
   View Single Line Diagram  <br>
   
