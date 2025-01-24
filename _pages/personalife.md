@@ -3,7 +3,7 @@ collection: personal life
 permalink: /life/
 ---
 
-When I’m not working, you’ll find me exploring nature through hiking and adventure, capturing moments with my camera, or diving into a good book. These things fueled my interest and curosity. 
+When I’m not working, you’ll find me exploring nature through hiking and adventure, capturing moments with my camera, or diving into a good book.
 
 <h1>Hiking Clips</h1>
 <div class="image-grid">
@@ -65,7 +65,7 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
   }
 </style>  <br>
 <h1> Some Book Recommendation</h1>
-<p> The listed books have deeply influenced me in terms of my work, discipline, and helped to build an amazing perspective on the world and humanity.</p>
+<p> The listed books have deeply influenced me in terms of my work, discipline, and helped me to build an amazing perspective on the world and humanity.</p>
 <div class="image-grid">
   <!-- Book 1 -->
   <div class="image-item">
