@@ -89,7 +89,7 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
 <style>
   .image-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); /* Responsive columns */
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); /* Responsive columns */
     gap: 15px; /* Spacing between images */
     padding: 10px;
   }
