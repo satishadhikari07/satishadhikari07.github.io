@@ -10,7 +10,7 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
   <!-- Image 1 -->
   <div class="image-item">
     <img src="../images/Narayanthanmy.jpg" alt="Narayanthan">
-    <p class="caption">Narayanthan Hiking Trailxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxcdfvdv</p>
+    <p class="caption">Hike is a scenic trekking route in Nepal, offering stunning views of lush green hills and the Kathmandu Valley. It is a moderate trail, ideal for beginners and nature enthusiasts, with opportunities to explore serene landscapes and local villages. The hike typically leads to Narayanthan Temple, a peaceful spot rich in cultural and spiritual significance.</p>
   </div>
   <!-- Image 2 -->
   <div class="image-item">
@@ -39,6 +39,10 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
 
   .image-item {
     text-align: center;
+    display: flex;
+    flex-direction: column; /* Stack image and caption */
+    align-items: center;
+    justify-content: center;
   }
 
   .image-item img {
@@ -58,5 +62,9 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
     margin-top: 8px; /* Space between the image and caption */
     font-size: 0.9rem; /* Adjust font size for captions */
     color: #555; /* Caption color */
+    text-align: center; /* Center the caption */
+    word-wrap: break-word; /* Ensure long text wraps correctly */
+    overflow-wrap: break-word; /* For long words that can't fit */
+    max-width: 100%; /* Ensure it doesn't overflow */
   }
 </style>
