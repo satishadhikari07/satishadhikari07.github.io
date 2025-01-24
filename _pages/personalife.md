@@ -3,5 +3,7 @@ collection: personal life
 permalink: /life/
 ---
 
-This site is currently under preliminary design phase.⚡<br>
-For a while, please check other Tabs.😊
+When I’m not working, you’ll find me exploring nature through hiking and adventure, capturing moments with my camera, or diving into a good book. These things keep me inspired and balanced, blending creativity, curiosity, and a love for discovery.
+
+Hiking Clips:
+
