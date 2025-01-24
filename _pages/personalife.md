@@ -64,8 +64,8 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
     max-width: 100%; /* Ensure it doesn't overflow */
   }
 </style>  <br>
-<p> “These books have deeply influenced me in terms of my work, discipline, and new perspective on the world and humanity.”
-<h1>My Book Recommendation</h1>
+<p> The listed books have deeply influenced me in terms of my work, discipline, and helped to build an amazing perspective on the world and humanity.
+<h1> Some Book Recommendation</h1>
 <div class="image-grid">
   <!-- Book 1 -->
   <div class="image-item">
@@ -82,6 +82,7 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
   <!-- Book 4 -->
   <div class="image-item">
     <img src="../images/BlackSkins.jpg" alt="Book 4">
+    <p> This book is about how Western side Europian countries have made progress than the Eastern Side. </p>
   </div>
 </div>
 
@@ -119,8 +120,6 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
     font-size: 0.9rem; /* Adjust font size for captions */
     color: #555; /* Caption color */
     text-align: center; /* Center the caption */
-    word-wrap: break-word; /* Ensure long text wraps correctly */
-    overflow-wrap: break-word; /* For long words that can't fit */
     max-width: 100%; /* Ensure it doesn't overflow */
   }
 </style>
