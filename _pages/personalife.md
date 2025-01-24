@@ -1,4 +1,3 @@
-![Atomic Habits](https://github.com/user-attachments/assets/f3ff756c-3682-40cb-a515-bfa069f93c27)---
 collection: personal life
 permalink: /life/
 ---
