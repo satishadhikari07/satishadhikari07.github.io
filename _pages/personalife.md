@@ -10,7 +10,7 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
   <!-- Image 1 -->
   <div class="image-item">
     <img src="../images/Narayanthanmy.jpg" alt="Narayanthan">
-    <p class="caption">Narayanthan Hiking Trail</p>
+    <p class="caption">Narayanthan Hiking Trailxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxcdfvdv</p>
   </div>
   <!-- Image 2 -->
   <div class="image-item">
