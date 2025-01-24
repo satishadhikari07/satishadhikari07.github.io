@@ -10,10 +10,10 @@ redirect_from:
 Hi, I’m Satish Adhikari, an Electrical and Electronics Engineering graduate with a bachelor’s degree from  <a href="https://elec.ku.edu.np//" target="_blank"> Kathmandu University</a>, Nepal. I am currently working at <a href="https://www.neaec.com.np/en/home" target="_blank"> NEA Engineering Company </a>, where I specialize in power transmission systems, substation design, and distribution networks.<br>
 
 I have been actively contributing to projects that focus on the planning, design, and implementation of power infrastructure. My responsibilities include designing high-voltage substations, optimizing distribution systems, and ensuring the reliability and efficiency of power transmission networks. I have a keen interest in exploring cutting-edge technologies like renewable energy integration, grid automation, and sustainable power solutions. I enjoy working on projects that challenge me to innovate and push the boundaries.<br>
-<a href="../files/CV - Satish Adhikari.pdf" download>
+<a href="../files/CV - Satish Adhikari.pdf" target="_blank">
   <button style="
     display: inline-block;
-    padding: 15x 15px;
+    padding: 18px 18px;
     color: #fff;
     font-size: 12px;
     font-weight: bold;
@@ -31,7 +31,6 @@ I have been actively contributing to projects that focus on the planning, design
     <span style="position: relative; z-index: 1;">View CV</span>
   </button>
 </a>
-
 
 
 
