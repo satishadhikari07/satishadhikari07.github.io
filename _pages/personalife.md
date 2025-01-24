@@ -7,11 +7,26 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
 
 <h1>My Hiking Clips</h1>
 <div class="image-grid">
-  <!-- Replace these image links with your own -->
-  <img src="../images/Narayanthanmy.jpg" alt="Narayanthan">
-  <img src="../images/N1.jpg" alt="Narayanthan">
-  <img src="../images/n2.jpg" alt="Narayanthan">
-  <img src="../images/Sikles1.jpg" alt="Sikles">
+  <!-- Image 1 -->
+  <div class="image-item">
+    <img src="../images/Narayanthanmy.jpg" alt="Narayanthan">
+    <p class="caption">Narayanthan Hiking Trail</p>
+  </div>
+  <!-- Image 2 -->
+  <div class="image-item">
+    <img src="../images/N1.jpg" alt="Hiking">
+    <p class="caption">Serenity in Nature</p>
+  </div>
+  <!-- Image 3 -->
+  <div class="image-item">
+    <img src="../images/n2.jpg" alt="Adventure">
+    <p class="caption">Exploring Hidden Trails</p>
+  </div>
+  <!-- Image 4 -->
+  <div class="image-item">
+    <img src="../images/Sikles1.jpg" alt="Sikles">
+    <p class="caption">The Sikles Experience</p>
+  </div>
 </div>
 
 <style>
@@ -22,7 +37,11 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
     padding: 10px;
   }
 
-  .image-grid img {
+  .image-item {
+    text-align: center;
+  }
+
+  .image-item img {
     width: 100%; /* Ensure images fill their container */
     height: auto;
     border-radius: 10px; /* Rounded corners for a modern look */
@@ -30,8 +49,14 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
     transition: transform 0.3s ease, box-shadow 0.3s ease; /* Hover animation */
   }
 
-  .image-grid img:hover {
+  .image-item img:hover {
     transform: scale(1.05); /* Slight zoom on hover */
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Enhanced shadow on hover */
-  } 
+  }
+
+  .caption {
+    margin-top: 8px; /* Space between the image and caption */
+    font-size: 0.9rem; /* Adjust font size for captions */
+    color: #555; /* Caption color */
+  }
 </style>
