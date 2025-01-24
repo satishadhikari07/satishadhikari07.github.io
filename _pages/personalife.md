@@ -4,7 +4,7 @@ permalink: /life/
 
 When I’m not working, you’ll find me exploring nature through hiking and adventure, capturing moments with my camera, or diving into a good book. These things keep me inspired and balanced, blending creativity, curiosity, and a love for discovery.
 
-<h1>My Hiking Clips</h1>
+<h1>Hiking Clips</h1>
 <div class="image-grid">
   <!-- Image 1 -->
   <div class="image-item">
