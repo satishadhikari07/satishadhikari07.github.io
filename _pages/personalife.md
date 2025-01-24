@@ -12,7 +12,7 @@ Hiking Clips:
   <img src="../images/Narayanthanmy.jpg" alt="Narayanthan">
   <img src="../images/N1.jpg" alt="Narayanthan">
   <img src="../images/N2.jpg" alt="Narayanthan">
- <img src="../images/Sikles1.jpg.jpg" alt="Sikles">
+  <img src="../images/Sikles1.jpg" alt="Sikles">
 </div>
 
 <style>
