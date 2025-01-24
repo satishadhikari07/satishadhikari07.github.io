@@ -13,9 +13,9 @@ I have been actively contributing to projects that focus on the planning, design
 <a href="path-to-your-cv.pdf" download>
   <button style="
     display: inline-block;
-    padding: 15px 30px;
+    padding: 10px 20px;
     color: #fff;
-    font-size: 18px;
+    font-size: 10px;
     font-weight: bold;
     background: linear-gradient(135deg, #2575fc, #6a11cb); /* Blue gradient */
     border: none;
