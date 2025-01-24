@@ -33,34 +33,40 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
   .image-grid img:hover {
     transform: scale(1.05); /* Slight zoom on hover */
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Enhanced shadow on hover */
-  } <br>
+  } 
   
-These books have profoundly influenced me in terms of my work, discipline, and offered new perspectives on the world and humanity.
-<table>
-  <tr>
-    <td>
-      <img src="path_to_image1.jpg" alt="Power Electronics Project" width="300">
-      <h3>Power Electronics Project (Undergraduate Thesis)</h3>
-      <p>Developed a leakage current mitigation strategy using its topology for Solar Energy Integration in Grid.</p>
-    </td>
-    <td>
-      <img src="path_to_image2.jpg" alt="PLMD IoT" width="300">
-      <h3>PLMD - IoT (Undergrad 7th Semester Project)</h3>
-      <p>Developed an IoT-based house energy monitoring device for demand-side response.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="path_to_image3.jpg" alt="UNET" width="300">
-      <h3>UNET</h3>
-      <p>Implemented the UNET model from scratch for image segmentation tasks in Python.</p>
-    </td>
-    <td>
-      <img src="path_to_image4.jpg" alt="Neural Style Transfer" width="300">
-      <h3>Neural Style Transfer</h3>
-      <p>Replicated the neural style transfer technique to apply artistic styles to images.</p>
-    </td>
-  </tr>
-</table>
-
-
+ <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Projects</h1>
+        <div class="projects-grid">
+            <div class="project-card">
+                <img src="path_to_image1.jpg" alt="Power Electronics Project">
+                <h3>Power Electronics Project (Undergraduate Thesis)</h3>
+                <p>Developed a leakage current mitigation strategy using its topology for Solar Energy Integration in Grid.</p>
+            </div>
+            <div class="project-card">
+                <img src="path_to_image2.jpg" alt="PLMD IoT">
+                <h3>PLMD - IoT (Undergrad 7th Semester Project)</h3>
+                <p>Developed an IoT-based house energy monitoring device for demand-side response.</p>
+            </div>
+            <div class="project-card">
+                <img src="path_to_image3.jpg" alt="UNET">
+                <h3>UNET</h3>
+                <p>Implemented the UNET model from scratch for image segmentation tasks in Python.</p>
+            </div>
+            <div class="project-card">
+                <img src="path_to_image4.jpg" alt="Neural Style Transfer">
+                <h3>Neural Style Transfer</h3>
+                <p>Replicated the neural style transfer technique to apply artistic styles to images.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
