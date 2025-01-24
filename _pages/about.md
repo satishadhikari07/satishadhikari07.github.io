@@ -13,7 +13,7 @@ I have been actively contributing to projects that focus on the planning, design
 <a href="../files/CV - Satish Adhikari.pdf" target="_blank">
   <button style="
     display: inline-block;
-    padding: 11px 11px;
+    padding: 9px 9px;
     color: #fff;
     font-size: 12px;
     font-weight: bold;
