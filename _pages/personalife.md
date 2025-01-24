@@ -69,7 +69,7 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
 <div class="image-grid">
   <!-- Book 1 -->
   <div class="image-item">
-    <img src="../images/Atomic Habits.jpg alt="Book 1">
+    <img src="../images/Atomic Habits.jpg" alt="Book 1">
   </div>
   <!-- Book 2 -->
   <div class="image-item">
