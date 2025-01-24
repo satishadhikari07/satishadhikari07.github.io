@@ -63,25 +63,25 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
     overflow-wrap: break-word; /* For long words that can't fit */
     max-width: 100%; /* Ensure it doesn't overflow */
   }
-</style>
-<p> These are the books that have influced me in terms of my works, discipline and perceptive towards world and human kinds.
+</style>  <br>
+<p> “These books have deeply influenced me in terms of my work, discipline, and new perspective on the world and humanity.”
 <h1>My Book Recommendation</h1>
 <div class="image-grid">
   <!-- Book 1 -->
   <div class="image-item">
-    <img src="../images/book1.jpg" alt="Book 1">
+    <img src="../Atomic Habits.jpg" alt="Book 1">
   </div>
   <!-- Book 2 -->
   <div class="image-item">
-    <img src="../images/book2.jpg" alt="Book 2">
+    <img src="../images/Homo.jpg" alt="Book 2">
   </div>
   <!-- Book 3 -->
   <div class="image-item">
-    <img src="../images/book3.jpg" alt="Book 3">
+    <img src="../images/Mahatama.jpg" alt="Book 3">
   </div>
   <!-- Book 4 -->
   <div class="image-item">
-    <img src="../images/book4.jpg" alt="Book 4">
+    <img src="../images/BlackSkins.jpg" alt="Book 4">
   </div>
 </div>
 
