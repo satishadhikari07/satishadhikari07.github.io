@@ -17,20 +17,20 @@ I have been actively contributing to projects that focus on the planning, design
     color: #fff;
     font-size: 18px;
     font-weight: bold;
-    background-color: green;
+    background: linear-gradient(135deg, #2575fc, #6a11cb); /* Blue gradient */
     border: none;
     border-radius: 50px;
     cursor: pointer;
-    transition: all 0.3s ease;
+    transition: all 0.4s ease; /* Smooth transition */
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     position: relative;
     overflow: hidden;
   " 
-  onmouseover="this.style.backgroundColor='blue';" 
-  onmouseout="this.style.backgroundColor='green';">
+  onmouseover="this.style.background='linear-gradient(135deg, #00c851, #33b5e5)'; this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3)';" 
+  onmouseout="this.style.background='linear-gradient(135deg, #2575fc, #6a11cb)'; this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 15px rgba(0, 0, 0, 0.2)';">
     <span style="position: relative; z-index: 1;">Download CV</span>
   </button>
-</a><br>
+</a>br>
 Beyond work, I love hiking, visiting to new places and painting. To learn more about my hobbies, projects and accomplishments, please explore site tabs or review my <a href="../files/CV - Satish Adhikari.pdf" target="_blank">CV.<br>
 
 
