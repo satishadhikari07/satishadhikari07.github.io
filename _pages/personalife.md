@@ -28,7 +28,7 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
 <style>
   .image-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsive columns */
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Responsive columns */
     gap: 15px; /* Spacing between images */
     padding: 10px;
   }
@@ -82,14 +82,14 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
   <!-- Book 4 -->
   <div class="image-item">
     <img src="../images/BlackSkins.jpg" alt="Book 4">
-    <p> This book is about how Western side Europian countries have made progress than the Eastern Side. </p>
+    <p> This book is about why Western Side Europe have made significant progressed than Eastern Europe. </p>
   </div>
 </div>
 
 <style>
   .image-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsive columns */
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Responsive columns */
     gap: 15px; /* Spacing between images */
     padding: 10px;
   }
