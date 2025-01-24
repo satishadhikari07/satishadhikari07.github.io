@@ -5,8 +5,7 @@ permalink: /life/
 
 When I’m not working, you’ll find me exploring nature through hiking and adventure, capturing moments with my camera, or diving into a good book. These things keep me inspired and balanced, blending creativity, curiosity, and a love for discovery.
 
-Hiking Clips:
-<h1>My Hobbies and Interests</h1>
+<h1>My Hiking Clips</h1>
 <div class="image-grid">
   <!-- Replace these image links with your own -->
   <img src="../images/Narayanthanmy.jpg" alt="Narayanthan">
