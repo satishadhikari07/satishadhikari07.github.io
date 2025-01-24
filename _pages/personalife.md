@@ -1,3 +1,4 @@
+---
 collection: personal life
 permalink: /life/
 ---
