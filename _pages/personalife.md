@@ -9,12 +9,10 @@ Hiking Clips:
 <h1>My Hobbies and Interests</h1>
 <div class="image-grid">
   <!-- Replace these image links with your own -->
-  <img src="https://via.placeholder.com/200" alt="Hiking">
-  <img src="https://via.placeholder.com/200" alt="Adventure">
-  <img src="https://via.placeholder.com/200" alt="Photography">
-  <img src="https://via.placeholder.com/200" alt="Reading">
-  <img src="https://via.placeholder.com/200" alt="Nature">
-  <img src="https://via.placeholder.com/200" alt="Travel">
+  <img src="../images/Narayanthanmy.jpg" alt="Narayanthan">
+  <img src="../images/N1.jpg" alt="Narayanthan">
+  <img src="../images/N2.jpg" alt="Narayanthan">
+ <img src="../images/Sikles1.jpg.jpg" alt="Sikles">
 </div>
 
 <style>
