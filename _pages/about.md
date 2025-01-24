@@ -13,9 +13,9 @@ I have been actively contributing to projects that focus on the planning, design
 <a href="path-to-your-cv.pdf" download>
   <button style="
     display: inline-block;
-    padding: 10px 20px;
+    padding: 15px 20px;
     color: #fff;
-    font-size: 10px;
+    font-size: 12px;
     font-weight: bold;
     background: linear-gradient(135deg, #2575fc, #6a11cb); /* Blue gradient */
     border: none;
@@ -30,8 +30,8 @@ I have been actively contributing to projects that focus on the planning, design
   onmouseout="this.style.background='linear-gradient(135deg, #2575fc, #6a11cb)'; this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 15px rgba(0, 0, 0, 0.2)';">
     <span style="position: relative; z-index: 1;">Download CV</span>
   </button>
-</a>br>
-Beyond work, I love hiking, visiting to new places and painting. To learn more about my hobbies, projects and accomplishments, please explore site tabs or review my <a href="../files/CV - Satish Adhikari.pdf" target="_blank">CV.<br>
+</a
+
 
 
 
