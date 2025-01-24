@@ -10,7 +10,7 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
   <!-- Replace these image links with your own -->
   <img src="../images/Narayanthanmy.jpg" alt="Narayanthan">
   <img src="../images/N1.jpg" alt="Narayanthan">
-  <img src="../images/N2.jpg" alt="Narayanthan">
+  <img src="../images/n2.jpg" alt="Narayanthan">
   <img src="../images/Sikles1.jpg" alt="Sikles">
 </div>
 
