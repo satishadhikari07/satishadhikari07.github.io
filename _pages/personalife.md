@@ -82,7 +82,7 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
   <!-- Book 4 -->
   <div class="image-item">
     <img src="../images/BlackSkins.jpg" alt="Book 4">
-    <p> This book is about why Western Side Europe have made significant progressed than Eastern Europe. </p>
+    <p> This book is about why Northern Side Europe have made significant progressed than Southern Europe. </p>
   </div>
 </div>
 
