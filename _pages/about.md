@@ -13,7 +13,7 @@ I have been actively contributing to projects that focus on the planning, design
 <a href="path-to-your-cv.pdf" download>
   <button style="
     display: inline-block;
-    padding: 15px 20px;
+    padding: 13px 18px;
     color: #fff;
     font-size: 12px;
     font-weight: bold;
@@ -30,7 +30,7 @@ I have been actively contributing to projects that focus on the planning, design
   onmouseout="this.style.background='linear-gradient(135deg, #2575fc, #6a11cb)'; this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 15px rgba(0, 0, 0, 0.2)';">
     <span style="position: relative; z-index: 1;">Download CV</span>
   </button>
-</a
+</a>
 
 
 
