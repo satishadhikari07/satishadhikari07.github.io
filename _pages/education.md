@@ -1,6 +1,7 @@
 ---
 permalink: /education/
 ---
+## Education Background <br>
 ### Bachelor in Electrical and Electronics Engineering (2018 - 2023) <br>
 <div class="header" style="display: flex; align-items: center;">
   <img src="../images/KUlogo.png" alt="logo" style="width:50px; margin-right: 10px;">
