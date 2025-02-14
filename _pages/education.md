@@ -1,7 +1,6 @@
 ---
 permalink: /education/
 ---
-Currently, I am actively seeking for Ph.D. opportunities.<br>
 <hr style="border: 0; height: 5px; background-color: green;">
 
 ### Bachelor in Electrical and Electronics Engineering (2018 - 2023)
