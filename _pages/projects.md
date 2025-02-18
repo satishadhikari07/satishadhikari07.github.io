@@ -1,11 +1,10 @@
 ---
-title: "Projects"
 collection: projects
 permalink: /projects/
 ---
 
 
-<span style="font-size: 25px; font-weight: bold;"> Academic Projects </span>
+<span style="font-size: 25px; font-weight: bold; color:#C5050C"> Academic Projects </span>
 <hr style="border: 0; height: 5px; background-color: green;">
 <span style="font-size: 14px;"><em>(Note: All reports are shortened, for detail reports, simulation files and codes, you can visit my github profile or reach out to me !!)</em></span>
 <br>
