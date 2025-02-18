@@ -1,7 +1,7 @@
 ---
 permalink: /education/
+title: Education Background
 ---
-## Education Background <br>
 
 ### Bachelor in Electrical and Electronics Engineering (2018 - 2023) <br>
 <div class="header" style="display: flex; align-items: center;">
@@ -9,7 +9,6 @@ permalink: /education/
   <span style="font-size: 18px;">Kathmandu University, Nepal</span>
 </div>
 <hr>
-
 * GPA 3.64/4.0
 * Percentage Equivalent : 87.05%
 * Major Courses : Power System, Power Electronics, Electric Machines, Control System and Engineering, Renewable Energy, Smart Grid, Engineering Projects and C/C++
