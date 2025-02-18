@@ -4,8 +4,8 @@ permalink: /projects/
 ---
 
 
-<span style="font-size: 25px; font-weight: bold; color:#C5050C"> Academic Projects </span>
-<hr style="border: 3px solid green; margin-top: 5px;">
+<span style="font-size: 25px; font-weight: bold; "> Academic Projects </span>
+<hr style="border: 3px solid green; margin-top: 1px;">
 <span style="font-size: 14px;"><em>(Note: All reports are shortened, for detail reports, simulation files and codes, you can visit my github profile or reach out to me !!)</em></span>
 <br>
 ### Thesis Project <br>
