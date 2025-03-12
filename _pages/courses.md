@@ -31,7 +31,7 @@ permalink: /courses/
         }
         .certificate-card img {
             width: 100%; /* Make the image fill the container's width */
-            height: 100%; /* Set a larger height for the images */
+            height: 75%; /* Set a larger height for the images */
             object-fit: cover; /* Ensures the image covers the container without distortion */
             border-radius: 4px;
         }
