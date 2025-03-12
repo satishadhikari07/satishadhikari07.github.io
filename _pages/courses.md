@@ -21,13 +21,13 @@ permalink: /courses/
             display: grid;
             grid-template-columns: repeat(3, 1fr); /* Adjust number of columns here */
             gap: 20px;
-            max-width: 1200px; /* **Changed**: Set a max width for the container */
+            max-width: 1500px; /* **Changed**: Set a max width for the container */
             margin: 0 auto; /* Centers the container */
-            padding: 20px;
+            padding: 10px;
         }
         .certificate-card {
-            padding: 15px;
-            border-radius: 8px;
+            padding: 20px;
+            border-radius: 4px;
             width: 100%;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
             overflow: hidden; /* Ensures image stays within the bounds of the container */
