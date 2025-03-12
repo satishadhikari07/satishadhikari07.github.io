@@ -65,13 +65,13 @@ permalink: /courses/
         </div>
 
 <div class="certificate-card">
-            <img src="../images/Certificate_Advanced Learning Algorithm">
+            <img src="../images/Certificate_Advanced Learning Algorithm.png">
             <div class="certificate-title">Advanced Learning Algorithm</div>
             <a href="https://www.coursera.org/account/accomplishments/verify/BY6CVHMA9COE" class="view-button" target="_blank">VIEW CERTIFICATE</a>
         </div>
 
  <div class="certificate-card">
-            <img src="../images/Certificate_Supervised Machine Learning Regression and Classification">
+            <img src="../images/Certificate_Supervised Machine Learning Regression and Classification.png">
             <div class="certificate-title">Supervised Machine Learning Regression and Classification</div>
             <a href="https://www.coursera.org/account/accomplishments/verify/645YUM5RE5TN" class="view-button" target="_blank">VIEW CERTIFICATE</a>
         </div>
