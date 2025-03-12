@@ -53,23 +53,23 @@ permalink: /courses/
     </style>
 </head>
 <body>
-    <h2>Deeplearning Specialization</h2>
+    <h2>Machine Learning Specialization</h2>
     <div class="certificate-container">
         <div class="certificate-card">
             <img src="/mnt/data/image.png" alt="Deep Learning Specialization">
-            <div class="certificate-title">Deep Learning Specialization</div>
+            <div class="certificate-title">Unsupervised Learning, Recommenders, Reinforcement Learning</div>
             <a href="https://example.com/certificate1" class="view-button" target="_blank">VIEW CERTIFICATE</a>
         </div>
 
 <div class="certificate-card">
             <img src="/mnt/data/image.png" alt="Sequence Models">
-            <div class="certificate-title">Sequence Models</div>
+            <div class="certificate-title">Advanced Learning Algorithm</div>
             <a href="https://example.com/certificate2" class="view-button" target="_blank">VIEW CERTIFICATE</a>
         </div>
 
  <div class="certificate-card">
             <img src="/mnt/data/image.png" alt="Convolutional Neural Network">
-            <div class="certificate-title">Convolutional Neural Network</div>
+            <div class="certificate-title">Supervised Machine Learning Regression and Classification</div>
             <a href="https://example.com/certificate3" class="view-button" target="_blank">VIEW CERTIFICATE</a>
         </div>
     </div>
