@@ -7,7 +7,7 @@ permalink: /courses/
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
+   <style>
         body {
             font-family: Arial, sans-serif;
             padding: 20px;
@@ -30,6 +30,9 @@ permalink: /courses/
         }
         .certificate-card img {
             width: 100%;
+            height: auto;
+            max-height: 250px;
+            object-fit: cover;
             border-radius: 4px;
         }
         .certificate-title {
