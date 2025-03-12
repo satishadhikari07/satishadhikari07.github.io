@@ -14,5 +14,8 @@ main:
   - title: "Projects"
     url: /projects/
     
+  - title: "Courses"
+    url: /courses/
+    
   - title: "Personal life"
     url: /life/
