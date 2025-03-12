@@ -56,25 +56,19 @@ permalink: /courses/
     <h2>Deeplearning Specialization</h2>
     <div class="certificate-container">
         <div class="certificate-card">
-            <a href="https://example.com/certificate1" target="_blank">
-                <img src="/mnt/data/image.png" alt="Deep Learning Specialization">
-            </a>
+            <img src="/mnt/data/image.png" alt="Deep Learning Specialization">
             <div class="certificate-title">Deep Learning Specialization</div>
             <a href="https://example.com/certificate1" class="view-button" target="_blank">VIEW CERTIFICATE</a>
         </div>
 
 <div class="certificate-card">
-            <a href="https://example.com/certificate2" target="_blank">
-                <img src="/mnt/data/image.png" alt="Sequence Models">
-            </a>
+            <img src="/mnt/data/image.png" alt="Sequence Models">
             <div class="certificate-title">Sequence Models</div>
             <a href="https://example.com/certificate2" class="view-button" target="_blank">VIEW CERTIFICATE</a>
         </div>
 
-<div class="certificate-card">
-            <a href="https://example.com/certificate3" target="_blank">
-                <img src="/mnt/data/image.png" alt="Convolutional Neural Network">
-            </a>
+ <div class="certificate-card">
+            <img src="/mnt/data/image.png" alt="Convolutional Neural Network">
             <div class="certificate-title">Convolutional Neural Network</div>
             <a href="https://example.com/certificate3" class="view-button" target="_blank">VIEW CERTIFICATE</a>
         </div>
