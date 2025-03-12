@@ -16,17 +16,6 @@ horizontal: false
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Certificate Portfolio</title>
     <style>
-        body {
-            background-color: #1a1a1a;
-            color: #fff;
-            font-family: Arial, sans-serif;
-            padding: 20px;
-        }
-        h2 {
-            border-bottom: 2px solid #4f9efd;
-            display: inline-block;
-            margin-bottom: 20px;
-        }
         .certificate-container {
             display: flex;
             gap: 20px;
@@ -64,13 +53,12 @@ horizontal: false
     </style>
 </head>
 <body>
-    <h2>Deeplearning Specialization</h2>
+    <h2>Machine Learning Specialization</h2>
     <div class="certificate-container">
         <div class="certificate-card">
-            <a href="https://example.com/certificate1" target="_blank">
-                <img src="/mnt/data/image.png" alt="Deep Learning Specialization">
+                <img src="/mnt/data/image.png" alt="Okayy">
             </a>
-            <div class="certificate-title">Deep Learning Specialization</div>
+            <div class="certificate-title">Nicee</div>
             <a href="https://example.com/certificate1" class="view-button" target="_blank">VIEW CERTIFICATE</a>
         </div>
 
