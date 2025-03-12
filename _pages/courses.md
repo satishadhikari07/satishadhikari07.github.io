@@ -30,24 +30,24 @@ permalink: /courses/
         }
         .certificate-card img {
             width: 100%;
-            height: auto;
-            max-height: 250px;
+            height: 200px; /* **Changed**: Adjusted height for images to 200px */
             object-fit: cover;
             border-radius: 4px;
         }
         .certificate-title {
-            font-size: 18px;
-            margin: 15px 0;
+            font-size: 16px; /* **Changed**: Reduced font size for the certificate title */
+            margin: 10px 0;
         }
         .view-button {
             background-color: #4f9efd;
             color: white;
-            padding: 10px 15px;
+            padding: 8px 12px; /* **Changed**: Reduced padding for smaller button */
             border: none;
             border-radius: 4px;
             text-decoration: none;
             display: inline-block;
             text-align: center;
+            font-size: 14px; /* **Changed**: Reduced font size for the button */
             transition: background-color 0.3s ease;
         }
         .view-button:hover {
