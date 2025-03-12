@@ -7,17 +7,25 @@ permalink: /courses/
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Certificate Portfolio</title>
     <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        h2 {
+            border-bottom: 2px solid #4f9efd;
+            display: inline-block;
+            margin-bottom: 20px;
+        }
         .certificate-container {
-            display: flex;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
             gap: 20px;
-            flex-wrap: wrap;
         }
         .certificate-card {
             padding: 15px;
             border-radius: 8px;
-            width: 300px;
+            width: 100%;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
         }
         .certificate-card img {
@@ -45,16 +53,17 @@ permalink: /courses/
     </style>
 </head>
 <body>
-    <h2>Machine Learning Specialization</h2>
+    <h2>Deeplearning Specialization</h2>
     <div class="certificate-container">
         <div class="certificate-card">
-                <img src="/mnt/data/image.png" alt="Okayy">
+            <a href="https://example.com/certificate1" target="_blank">
+                <img src="/mnt/data/image.png" alt="Deep Learning Specialization">
             </a>
-            <div class="certificate-title">Nicee</div>
+            <div class="certificate-title">Deep Learning Specialization</div>
             <a href="https://example.com/certificate1" class="view-button" target="_blank">VIEW CERTIFICATE</a>
         </div>
 
-  <div class="certificate-card">
+<div class="certificate-card">
             <a href="https://example.com/certificate2" target="_blank">
                 <img src="/mnt/data/image.png" alt="Sequence Models">
             </a>
@@ -62,7 +71,7 @@ permalink: /courses/
             <a href="https://example.com/certificate2" class="view-button" target="_blank">VIEW CERTIFICATE</a>
         </div>
 
-  <div class="certificate-card">
+<div class="certificate-card">
             <a href="https://example.com/certificate3" target="_blank">
                 <img src="/mnt/data/image.png" alt="Convolutional Neural Network">
             </a>
@@ -72,4 +81,3 @@ permalink: /courses/
     </div>
 </body>
 </html>
-
