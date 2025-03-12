@@ -19,8 +19,11 @@ permalink: /courses/
         }
         .certificate-container {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(3, 1fr); /* Adjust number of columns here */
             gap: 20px;
+            max-width: 1200px; /* **Changed**: Set a max width for the container */
+            margin: 0 auto; /* Centers the container */
+            padding: 20px;
         }
         .certificate-card {
             padding: 15px;
