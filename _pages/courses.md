@@ -1,5 +1,5 @@
 ---
-title: Courses
+collection: courses
 permalink: /courses/
 ---
 
@@ -15,7 +15,6 @@ permalink: /courses/
             flex-wrap: wrap;
         }
         .certificate-card {
-            background-color: #2a2a2a;
             padding: 15px;
             border-radius: 8px;
             width: 300px;
