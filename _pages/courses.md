@@ -10,17 +10,17 @@ permalink: /courses/
    <style>
         body {
             font-family: Arial, sans-serif;
-            padding: 20px;
+            padding: 10px;
         }
         h2 {
             border-bottom: 2px solid #4f9efd;
             display: inline-block;
-            margin-bottom: 20px;
+            margin-bottom: 10px;
         }
         .certificate-container {
             display: grid;
             grid-template-columns: repeat(3, 1fr); /* Adjust number of columns here */
-            gap: 20px;
+            gap: 10px;
             max-width: 1500px; /* **Changed**: Set a max width for the container */
             margin: 0 auto; /* Centers the container */
             padding: 10px;
@@ -34,7 +34,7 @@ permalink: /courses/
         }
         .certificate-card img {
             width: 100%; /* Make the image fill the container's width */
-            height: 75%; /* Set a larger height for the images */
+            height: 80%; /* Set a larger height for the images */
             object-fit: cover; /* Ensures the image covers the container without distortion */
             border-radius: 4px;
         }
@@ -45,13 +45,13 @@ permalink: /courses/
         .view-button {
             background-color: #4f9efd;
             color: white;
-            padding: 8px 12px; /* Reduced padding for smaller button */
+            padding: 6px 8px; /* Reduced padding for smaller button */
             border: none;
-            border-radius: 4px;
+            border-radius: 6px;
             text-decoration: none;
             display: inline-block;
             text-align: center;
-            font-size: 14px; /* Reduced font size for the button */
+            font-size: 10px; /* Reduced font size for the button */
             transition: background-color 0.3s ease;
         }
         .view-button:hover {
