@@ -10,48 +10,48 @@ permalink: /courses/
    <style>
         body {
             font-family: Arial, sans-serif;
-            padding: 10px;
+            padding: 20px;
         }
         h2 {
             border-bottom: 2px solid #4f9efd;
             display: inline-block;
-            margin-bottom: 10px;
+            margin-bottom: 20px;
         }
         .certificate-container {
             display: grid;
-            grid-template-columns: repeat(3, 1fr); /* Adjust number of columns here */
-            gap: 10px;
-            max-width: 1500px; /* **Changed**: Set a max width for the container */
-            margin: 0 auto; /* Centers the container */
-            padding: 10px;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
         }
         .certificate-card {
-            padding: 20px;
-            border-radius: 4px;
+            padding: 15px;
+            border-radius: 8px;
             width: 100%;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-            overflow: hidden; /* Ensures image stays within the bounds of the container */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         .certificate-card img {
-            width: 100%; /* Make the image fill the container's width */
-            height: 80%; /* Set a larger height for the images */
-            object-fit: cover; /* Ensures the image covers the container without distortion */
+            width: 100%;
+            height: 200px; /* Set a fixed height */
+            object-fit: cover; /* Ensures image fits without distortion */
             border-radius: 4px;
         }
         .certificate-title {
-            font-size: 16px; /* Reduced font size for the certificate title */
+            font-size: 16px;
             margin: 10px 0;
+            text-align: center;
         }
         .view-button {
             background-color: #4f9efd;
             color: white;
-            padding: 6px 8px; /* Reduced padding for smaller button */
+            padding: 8px 12px;
             border: none;
-            border-radius: 6px;
+            border-radius: 4px;
             text-decoration: none;
             display: inline-block;
             text-align: center;
-            font-size: 10px; /* Reduced font size for the button */
+            font-size: 14px;
             transition: background-color 0.3s ease;
         }
         .view-button:hover {
