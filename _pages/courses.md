@@ -27,17 +27,16 @@ permalink: /courses/
             border-radius: 8px;
             width: 100%;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            overflow: hidden; /* Ensures image stays within the bounds of the container */
         }
         .certificate-card img {
-            width: 100%;
-            height: auto; /* Allow the height to adjust automatically */
-            max-height: 250px; /* Limit the max height */
-            object-fit: contain; /* Ensures image is fully contained without being cut off */
+            width: 100%; /* Make the image fill the container's width */
+            height: 300px; /* Set a larger height for the images */
+            object-fit: cover; /* Ensures the image covers the container without distortion */
             border-radius: 4px;
-            aspect-ratio: 16 / 9; /* Maintain a proper aspect ratio (16:9, you can change this if needed) */
         }
         .certificate-title {
-            font-size: 14px; /* Reduced font size for the certificate title */
+            font-size: 16px; /* Reduced font size for the certificate title */
             margin: 10px 0;
         }
         .view-button {
@@ -49,7 +48,7 @@ permalink: /courses/
             text-decoration: none;
             display: inline-block;
             text-align: center;
-            font-size: 12px; /* Reduced font size for the button */
+            font-size: 14px; /* Reduced font size for the button */
             transition: background-color 0.3s ease;
         }
         .view-button:hover {
