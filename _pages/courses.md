@@ -35,7 +35,7 @@ permalink: /courses/
             border-radius: 4px;
         }
         .certificate-title {
-            font-size: 10px; /* **Changed**: Reduced font size for the certificate title */
+            font-size: 14px; /* **Changed**: Reduced font size for the certificate title */
             margin: 10px 0;
         }
         .view-button {
@@ -47,7 +47,7 @@ permalink: /courses/
             text-decoration: none;
             display: inline-block;
             text-align: center;
-            font-size: 14px; /* **Changed**: Reduced font size for the button */
+            font-size: 12px; /* **Changed**: Reduced font size for the button */
             transition: background-color 0.3s ease;
         }
         .view-button:hover {
