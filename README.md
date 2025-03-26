@@ -1,1 +1,1 @@
-Made with Jerkyll
+Made with Jerkyll theme
