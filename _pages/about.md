@@ -32,7 +32,7 @@ I have been actively contributing to projects that focus on the planning, design
   </button>
 </a>
 <!-- 📜 Inline CV Preview -->
-<iframe src="{{ '/files/Satish-CV.pdf' | relative_url }}" width="100%" height="800px">
+<iframe src="{{ '/files/CV - Satish Adhikari.pdf' | relative_url }}" width="100%" height="800px">
   <p>Your browser does not support iframes. Click <a href="{{ '/assets/files/Zahidul_CV.pdf' | relative_url }}">here</a> to view the CV.</p>
 </iframe>
 
