@@ -3,7 +3,7 @@ collection: Courses
 permalink: /courses/
 ---
 
-<h1 style="text-align: left; margin-bottom: 40px;">📜 Online Courses and Certification</h1>
+<h1 style="text-align: left; margin-bottom: 40px;">Online Courses and Certification 📜</h1>
 
 <h2 style="text-align: left; margin-bottom: 40px;">Machine Learning Specialization </h2>
 
