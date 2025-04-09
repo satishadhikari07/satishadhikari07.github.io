@@ -73,8 +73,8 @@ permalink: /courses/
     <a href="https://www.coursera.org/account/accomplishments/verify/645YUM5RE5TN" target="_blank" style="text-decoration: none; color: #007acc;">🔗 View Certificate</a>
   </div>
   
-  <h2 style="text-align: left; margin-bottom: 40px;"> Other Courses </h2> 
-  <br>
+  <h2 style="text-align: left; margin-bottom: 40px;"> Other Courses </h2>  
+
   
   <!-- Certificate 4 -->
   <div class="certificate-card">
