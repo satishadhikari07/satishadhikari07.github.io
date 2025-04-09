@@ -74,8 +74,8 @@ permalink: /courses/
   </div>
   </section>
   
-  <section class="courses-section">
-  <h2 style="text-align: left; margin-bottom: 40px;"> Other Courses </h2> <br>
+<h2 style="text-align: left; margin-bottom: 40px;"> Other Courses </h2> <br> 
+<section class="courses-section">
   <!-- Certificate 4 -->
   <div class="certificate-card">
     <img src="../images/CertificateOfCompletion_HTML CSS and JavaScript Building the Web.png" alt="HTML, CSS and Java Scripts Building the Web">
