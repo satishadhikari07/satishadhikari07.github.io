@@ -17,9 +17,9 @@ permalink: /courses/
   .certificate-card {
     border: 1px solid #e0e0e0;
     border-radius: 12px;
-    padding: 20px;
+    padding: 16px;
     flex: 1 1 calc(33.333% - 40px);
-    max-width: 300px;
+    max-width: 340px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -32,6 +32,8 @@ permalink: /courses/
 
   .certificate-card img {
     width: 100%;
+    height: 200px; /* make image taller */
+    object-fit: cover; /* keeps image from stretching */
     border-radius: 8px;
   }
 
@@ -44,6 +46,10 @@ permalink: /courses/
   @media (max-width: 600px) {
     .certificate-card {
       flex: 1 1 100%;
+    }
+
+    .certificate-card img {
+      height: auto;
     }
   }
 </style>
