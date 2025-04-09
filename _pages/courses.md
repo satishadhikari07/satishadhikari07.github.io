@@ -54,7 +54,6 @@ permalink: /courses/
   <div class="certificate-card">
     <img src="https://your-image-link.com/ml-specialization.jpg" alt="Machine Learning Specialization">
     <h3 style="margin-top: 15px;">Unsupervised Learning, Recommenders, Reinforcement Learning</h3>
-    <p><em>By Andrew Ng – DeepLearning.AI</em></p>
     <a href="https://coursera.org/verify/YOUR_CERTIFICATE_ID" target="_blank" style="text-decoration: none; color: #007acc;">🔗 View Certificate</a>
   </div>
 
@@ -62,7 +61,6 @@ permalink: /courses/
   <div class="certificate-card">
     <img src="../images/Certificate_Advanced Learning Algorithm.png" alt="AI for Everyone">
     <h3 style="margin-top: 15px;">Advanced Learning Algorithm</h3>
-    <p><em>Andrew Ng – DeepLearning.AI</em></p>
     <a href="https://www.coursera.org/account/accomplishments/verify/BY6CVHMA9COE" target="_blank" style="text-decoration: none; color: #007acc;">🔗 View Certificate</a>
   </div>
 
@@ -70,7 +68,6 @@ permalink: /courses/
   <div class="certificate-card">
     <img src="../images/Certificate_Supervised Machine Learning Regression and Classification.png" alt="Deep Learning Specialization">
     <h3 style="margin-top: 15px;">Supervised Machine Learning Regression and Classification</h3>
-    <p><em>By Andrew Ng – DeepLearning.AI</em></p>
     <a href="https://www.coursera.org/account/accomplishments/verify/645YUM5RE5TN" target="_blank" style="text-decoration: none; color: #007acc;">🔗 View Certificate</a>
   </div>
 
