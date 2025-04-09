@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Courses
+collection: Courses
 permalink: /courses/
 ---
 
