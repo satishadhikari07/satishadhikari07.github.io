@@ -75,3 +75,13 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
   </td>
  </tr>
 </table>
+
+<table class="imgtable">
+  <tr>
+    <td style = "width:30%">
+      <img src="../images/Homo.jpg" alt="Book 2">&nbsp; &nbsp; &nbsp;
+    </td>
+  <td align="left"><p> "Homo Sapiens" explores the history of humankind from the emergence of our species to the modern era. It highlights how cognitive, agricultural, and scientific revolutions shaped societies, beliefs, and power structures. </p>
+  </td>
+ </tr>
+</table>
