@@ -63,77 +63,62 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
     overflow-wrap: break-word; /* For long words that can't fit */
     max-width: 100%; /* Ensure it doesn't overflow */
   }
+  </style>
+
+<div class="image-grid">
+  <!-- Book 1 -->
+  <div class="image-item">
+    <img src="../images/Atomic Habits.jpg" alt="Book 1">
+  </div>
+  <!-- Book 2 -->
+  <div class="image-item">
+    <img src="../images/Homo.jpg" alt="Book 2">
+  </div>
+  <!-- Book 3 -->
+  <div class="image-item">
+    <img src="../images/Mahatama.jpg" alt="Book 3">
+  </div>
+  <!-- Book 4 -->
+  <div class="image-item">
+    <img src="../images/BlackSkins.jpg" alt="Book 4">
+    <p> This book is about why Northern Side Europe (e.g.Finland, Norway, Sweden) have made significant progress than Southern Side Europe. </p>
+  </div>
+</div>
+
 <style>
-  /* Reset all table styles */
-  table.imgtable, table.imgtable * {
-    all: unset;
+  .image-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); /* Responsive columns */
+    gap: 15px; /* Spacing between images */
+    padding: 10px;
   }
 
-  /* Reapply only the styles we want */
-  table.imgtable {
-    display: table;
-    width: 100%;
-    margin-bottom: 20px;
+  .image-item {
+    text-align: center;
+    display: flex;
+    flex-direction: column; /* Stack image and caption */
+    align-items: center;
+    justify-content: center;
   }
 
-  table.imgtable tr {
-    display: table-row;
-  }
-
-  table.imgtable td {
-    display: table-cell;
-    vertical-align: top;
-    padding: 10px 0;
-  }
-
-  table.imgtable td:first-child {
-    width: 30%;
-    padding-right: 15px;
-  }
-
-  table.imgtable img {
-    width: 120px;
+  .image-item img {
+    width: 100%; /* Ensure images fill their container */
     height: auto;
-    display: block;
+    border-radius: 10px; /* Rounded corners for a modern look */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add some shadow for depth */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Hover animation */
   }
 
-  /* Responsive stacking on small screens */
-  @media (max-width: 600px) {
-    table.imgtable, table.imgtable tr, table.imgtable td {
-      display: block;
-      width: 100%;
-    }
+  .image-item img:hover {
+    transform: scale(1.05); /* Slight zoom on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Enhanced shadow on hover */
+  }
 
-    table.imgtable td:first-child {
-      text-align: center;
-      padding-bottom: 10px;
-    }
+  .caption {
+    margin-top: 8px; /* Space between the image and caption */
+    font-size: 0.9rem; /* Adjust font size for captions */
+    color: #555; /* Caption color */
+    text-align: center; /* Center the caption */
+    max-width: 100%; /* Ensure it doesn't overflow */
   }
 </style>
-
-<h1>Some Book Recommendations</h1>
-<p>
-  The listed books have deeply influenced me in terms of my work, discipline, and helped me to build an amazing perspective on the world and humanity.
-</p>
-
-<table class="imgtable">
-  <tr>
-    <td style="width:30%">
-      <img src="../images/Atomic Habits.jpg" alt="Book 1">
-    </td>
-    <td align="left">
-      <p>"Atomic Habits" highlights the power of small, consistent good habits that has impact over period of time. It explains how tiny habits, small change in good decisions if built effectively, can lead to remarkable transformation.</p>
-    </td>
-  </tr>
-</table>
-
-<table class="imgtable">
-  <tr>
-    <td style="width:30%">
-      <img src="../images/Homo.jpg" alt="Book 2">
-    </td>
-    <td align="left">
-      <p>"Homo Sapiens" explores the history of humankind from the emergence of our species to the modern era. It highlights how cognitive, agricultural, and scientific revolutions shaped societies, beliefs, and power structures.</p>
-    </td>
-  </tr>
-</table>
