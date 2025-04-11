@@ -66,61 +66,12 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
 </style>  <br>
 <h1> Some Book Recommendation</h1>
 <p> The listed books have deeply influenced me in terms of my work, discipline, and helped me to build an amazing perspective on the world and humanity.</p>
-<div class="image-grid">
-  <!-- Book 1 -->
-  <div class="image-item">
-    <img src="../images/Atomic Habits.jpg" alt="Book 1">
-  </div>
-  <!-- Book 2 -->
-  <div class="image-item">
-    <img src="../images/Homo.jpg" alt="Book 2">
-  </div>
-  <!-- Book 3 -->
-  <div class="image-item">
-    <img src="../images/Mahatama.jpg" alt="Book 3">
-  </div>
-  <!-- Book 4 -->
-  <div class="image-item">
-    <img src="../images/BlackSkins.jpg" alt="Book 4">
-    <p> This book is about why Northern Side Europe (Finland, Norway, Sweden) have made significant progress than Southern Side Europe. </p>
-  </div>
-</div>
-
-<style>
-  .image-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); /* Responsive columns */
-    gap: 15px; /* Spacing between images */
-    padding: 10px;
-  }
-
-  .image-item {
-    text-align: center;
-    display: flex;
-    flex-direction: column; /* Stack image and caption */
-    align-items: center;
-    justify-content: center;
-  }
-
-  .image-item img {
-    width: 100%; /* Ensure images fill their container */
-    height: auto;
-    border-radius: 10px; /* Rounded corners for a modern look */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add some shadow for depth */
-    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Hover animation */
-  }
-
-  .image-item img:hover {
-    transform: scale(1.05); /* Slight zoom on hover */
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Enhanced shadow on hover */
-  }
-
-  .caption {
-    margin-top: 8px; /* Space between the image and caption */
-    font-size: 0.9rem; /* Adjust font size for captions */
-    color: #555; /* Caption color */
-    text-align: center; /* Center the caption */
-    max-width: 100%; /* Ensure it doesn't overflow */
-  }
-</style>
-
+<table class="imgtable">
+  <tr>
+    <td style = "width:30%">
+      <img src="../images/Atomic Habits.jpg" alt="Book 1">&nbsp; &nbsp; &nbsp;
+    </td>
+  <td align="left"><p> "Atomic Habits" highlights the power of small, consistent good habits that has impact over period of  time. It explains how tiny habits, small change in good decisions if built effectively, can lead to remarkable transformation </p>
+  </td>
+ </tr>
+</table>
