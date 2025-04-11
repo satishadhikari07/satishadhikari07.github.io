@@ -66,19 +66,43 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
 <style>
   table.imgtable {
     border-collapse: collapse;
-    border: none;
+    border: none !important;
+    border-spacing: 0;
     width: 100%;
     margin-bottom: 20px;
   }
 
+  table.imgtable tr,
   table.imgtable td {
-    border: none;
+    border: none !important;
+    outline: none;
+  }
+
+  table.imgtable td {
     vertical-align: top;
+    padding: 10px 0;
   }
 
   table.imgtable img {
-    width: 120px; /* Adjust size as needed */
+    width: 120px;
     height: auto;
+    display: block;
+  }
+
+  table.imgtable td:first-child {
+    padding-right: 15px;
+  }
+
+  @media (max-width: 600px) {
+    table.imgtable, table.imgtable tr, table.imgtable td {
+      display: block;
+      width: 100%;
+    }
+
+    table.imgtable td:first-child {
+      text-align: center;
+      padding-bottom: 10px;
+    }
   }
 </style>
 
