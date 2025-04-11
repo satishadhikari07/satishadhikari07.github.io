@@ -64,23 +64,31 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
     max-width: 100%; /* Ensure it doesn't overflow */
   }
 <style>
+  /* Reset all table styles */
+  table.imgtable, table.imgtable * {
+    all: unset;
+  }
+
+  /* Reapply only the styles we want */
   table.imgtable {
-    border-collapse: collapse;
-    border: none !important;
-    border-spacing: 0;
+    display: table;
     width: 100%;
     margin-bottom: 20px;
   }
 
-  table.imgtable tr,
-  table.imgtable td {
-    border: none !important;
-    outline: none;
+  table.imgtable tr {
+    display: table-row;
   }
 
   table.imgtable td {
+    display: table-cell;
     vertical-align: top;
     padding: 10px 0;
+  }
+
+  table.imgtable td:first-child {
+    width: 30%;
+    padding-right: 15px;
   }
 
   table.imgtable img {
@@ -89,10 +97,7 @@ When I’m not working, you’ll find me exploring nature through hiking and adv
     display: block;
   }
 
-  table.imgtable td:first-child {
-    padding-right: 15px;
-  }
-
+  /* Responsive stacking on small screens */
   @media (max-width: 600px) {
     table.imgtable, table.imgtable tr, table.imgtable td {
       display: block;
