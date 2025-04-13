@@ -20,8 +20,8 @@ permalink: /courses/
     border: 1px solid #e0e0e0;
     border-radius: 12px;
     padding: 20px;
-    flex: 1 1 calc(33.333% - 40px);
-    max-width: 300px;
+    flex: 1 1 calc(50% - 40px); /* Changed from 33.333% to 50% */
+    max-width: 400px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -39,7 +39,7 @@ permalink: /courses/
 
   @media (max-width: 992px) {
     .certificate-card {
-      flex: 1 1 calc(45% - 40px);
+      flex: 1 1 calc(100% - 40px);
     }
   }
 
@@ -61,26 +61,28 @@ permalink: /courses/
 
   <!-- Certificate 2 -->
   <div class="certificate-card">
-    <img src="../images/Certificate_Advanced Learning Algorithm.png" alt="AI for Everyone">
+    <img src="../images/Certificate_Advanced Learning Algorithm.png" alt="Advanced Learning Algorithm">
     <h3 style="margin-top: 15px;">Advanced Learning Algorithm</h3>
     <a href="https://www.coursera.org/account/accomplishments/verify/BY6CVHMA9COE" target="_blank" style="text-decoration: none; color: #007acc;">🔗 View Certificate</a>
   </div>
 
   <!-- Certificate 3 -->
   <div class="certificate-card">
-    <img src="../images/Certificate_Supervised Machine Learning Regression and Classification.png" alt="Deep Learning Specialization">
+    <img src="../images/Certificate_Supervised Machine Learning Regression and Classification.png" alt="Supervised Machine Learning Regression and Classification">
     <h3 style="margin-top: 15px;">Supervised Machine Learning Regression and Classification</h3>
     <a href="https://www.coursera.org/account/accomplishments/verify/645YUM5RE5TN" target="_blank" style="text-decoration: none; color: #007acc;">🔗 View Certificate</a>
   </div>
-  </section>
-  
-<h2 style="text-align: left; margin-bottom: 40px;"> Other Courses </h2>
+
+</section>
+
+<h2 style="text-align: left; margin-bottom: 40px;">Other Courses</h2>
 <section class="courses-section">
+
   <!-- Certificate 4 -->
   <div class="certificate-card">
-    <img src="../images/CertificateOfCompletion_HTML CSS and JavaScript Building the Web.png" alt="HTML, CSS and Java Scripts Building the Web">
-    <h3 style="margin-top: 15px;">HTML, CSS and Java Scripts Building the Web</h3>
-    <a href="https://www.linkedin.com/learning/certificates/30d6e9a7120bafae81610825bf92ec3a80dc37796ef84931f378a23e4398220e?u=153400164" target="_blank"     style="text-decoration: none; color: #007acc;">🔗 View Certificate</a>
+    <img src="../images/CertificateOfCompletion_HTML CSS and JavaScript Building the Web.png" alt="HTML, CSS and JavaScript Building the Web">
+    <h3 style="margin-top: 15px;">HTML, CSS and JavaScript Building the Web</h3>
+    <a href="https://www.linkedin.com/learning/certificates/30d6e9a7120bafae81610825bf92ec3a80dc37796ef84931f378a23e4398220e?u=153400164" target="_blank" style="text-decoration: none; color: #007acc;">🔗 View Certificate</a>
   </div>  
 
   <!-- Certificate 5 -->
@@ -88,7 +90,6 @@ permalink: /courses/
     <img src="../images/CertificateOfCompletion_Data Analysis with Python and Pandas.png" alt="Data Analysis with Python and Pandas">
     <h3 style="margin-top: 15px;">Data Analysis with Python and Pandas</h3>
     <a href="https://www.linkedin.com/learning/certificates/72b0110b918a3d2c090c5ca2a73987aa0dc4b29ec98270241c680ff309fd2d21?u=153400164" target="_blank" style="text-decoration: none; color: #007acc;">🔗 View Certificate</a>
-  </div> 
-  </section>
+  </div>
 
-
+</section>
