@@ -20,8 +20,8 @@ permalink: /courses/
     border: 1px solid #e0e0e0;
     border-radius: 12px;
     padding: 20px;
-    flex: 1 1 calc(50% - 40px); /* Changed from 33.333% to 50% */
-    max-width: 400px;
+    flex: 1 1 calc(33.333% - 40px);
+    max-width: 300px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -39,7 +39,7 @@ permalink: /courses/
 
   @media (max-width: 992px) {
     .certificate-card {
-      flex: 1 1 calc(100% - 40px);
+      flex: 1 1 calc(45% - 40px);
     }
   }
 
