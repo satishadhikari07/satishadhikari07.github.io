@@ -75,7 +75,7 @@ permalink: /courses/
 
 </section>
 
-<h2 style="text-align: left; margin-bottom: 40px;">Other Courses</h2>
+<h2 style="text-align: left; margin-bottom: 40px;">Website Development</h2>
 <section class="courses-section">
 
   <!-- Certificate 4 -->
@@ -84,12 +84,22 @@ permalink: /courses/
     <h3 style="margin-top: 15px;">HTML, CSS and JavaScript Building the Web</h3>
     <a href="https://www.linkedin.com/learning/certificates/30d6e9a7120bafae81610825bf92ec3a80dc37796ef84931f378a23e4398220e?u=153400164" target="_blank" style="text-decoration: none; color: #007acc;">🔗 View Certificate</a>
   </div>  
+  
+    <!-- Certificate 4 -->
+  <div class="certificate-card">
+    <img src="../images/CertificateOfCompletion_HTML CSS and JavaScript Building the Web.png" alt="HTML, CSS and JavaScript Building the Web">
+    <h3 style="margin-top: 15px;">HTML, CSS and JavaScript Building the Web</h3>
+    <a href="https://www.linkedin.com/learning/certificates/30d6e9a7120bafae81610825bf92ec3a80dc37796ef84931f378a23e4398220e?u=153400164" target="_blank" style="text-decoration: none; color: #007acc;">🔗 View Certificate</a>
+  </div>  
+</section>
 
+<h2 style="text-align: left; margin-bottom: 40px;">Data Analysis (Preprocessig and Visualization </h2>
+<section class="courses-section">
   <!-- Certificate 5 -->
   <div class="certificate-card">
     <img src="../images/CertificateOfCompletion_Data Analysis with Python and Pandas.png" alt="Data Analysis with Python and Pandas">
     <h3 style="margin-top: 15px;">Data Analysis with Python and Pandas</h3>
     <a href="https://www.linkedin.com/learning/certificates/72b0110b918a3d2c090c5ca2a73987aa0dc4b29ec98270241c680ff309fd2d21?u=153400164" target="_blank" style="text-decoration: none; color: #007acc;">🔗 View Certificate</a>
   </div>
-
 </section>
+
