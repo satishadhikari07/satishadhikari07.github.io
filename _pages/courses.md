@@ -93,7 +93,7 @@ permalink: /courses/
   </div>  
 </section>
 
-<h2 style="text-align: left; margin-bottom: 40px;">Data Analysis (Preprocessig and Visualization </h2>
+<h2 style="text-align: left; margin-bottom: 40px;">Data Analysis (Preprocessig and Visualization) </h2>
 <section class="courses-section">
   <!-- Certificate 5 -->
   <div class="certificate-card">
