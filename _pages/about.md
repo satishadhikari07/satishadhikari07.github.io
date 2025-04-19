@@ -30,7 +30,7 @@ I have been actively contributing to projects that focus on the planning, design
   " 
   onmouseover="this.style.background='linear-gradient(135deg, #00c851, #33b5e5)'; this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3)';" 
   onmouseout="this.style.background='linear-gradient(135deg, #2575fc, #6a11cb)'; this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 15px rgba(0, 0, 0, 0.2)';">
-    <span style="position: relative; z-index: 1;">View CV</span>
+    <span style="position: relative; z-index: 1;">Open CV</span>
   </button>
 </a>
 <!-- 📜 Inline CV Preview -->
