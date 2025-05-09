@@ -12,7 +12,7 @@ Hi, I’m Satish Adhikari, an Electrical and Electronics Engineering graduate wi
 I have been actively contributing to projects that focus on the planning, design, and implementation of power infrastructure. My responsibilities include designing high-voltage substations, optimizing distribution systems, and ensuring the reliability and efficiency of power transmission networks. I have a keen interest in exploring cutting-edge technologies like renewable energy integration, grid automation, and sustainable power solutions.<br>
 </p>
 
-<a href="../files/Satish_CV.pdf" target="_blank">
+<a href="../files/CV - Satish Adhikari.pdf" target="_blank">
   <button style="
     display: inline-block;
     padding: 3px 3px;
@@ -34,7 +34,7 @@ I have been actively contributing to projects that focus on the planning, design
   </button>
 </a>
 <!-- 📜 Inline CV Preview -->
-<iframe src="{{ '../files/Satish_CV.pdf' | relative_url }}" width="100%" height="600px">
+<iframe src="{{ '../files/CV - Satish Adhikari.pdf' | relative_url }}" width="100%" height="600px">
   <p>Your browser does not support iframes. Click <a href="{{ '/files/CV - Satish Adhikari.pd' | relative_url }}">here</a> to view the CV.</p>
 </iframe>
 
